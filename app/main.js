@@ -22,7 +22,7 @@ window.onload = () => {
   const sampleImageCache = {
     darrick: 'http://www.apimages.com/Images/Ap_Creative_Stock_Header.jpg',
     chris: 'https://thumb7.shutterstock.com/display_pic_with_logo/64778/634117829/stock-photo-two-fidget-spinners-634117829.jpg',
-    patrick: 'http://static.adweek.com/adweek.com-prod/files/imagecache/node-blog/totinos-stock-08-2014.jpg',
+    patrick: 'http://images6.fanpop.com/image/photos/36500000/Patrick-is-a-boss-patrick-star-spongebob-36522145-295-450.jpg',
   };
 
   /*
